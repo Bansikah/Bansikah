@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tandap Noel Bansikah</h1>
-<h3 align="center">A software Engineer and a Technical writer</h3>
+### 👋 Hi, I'm Noel Bansikah!
+
+👨‍💻 I'm a software developer with three years of experience creating beautiful, user-friendly web interfaces. I specialize in building responsive, scalable, and accessible websites using the latest web technologies such as HTML5, CSS3, JavaScript, and modern front-end frameworks like React, Vue, and Angular.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansikah&label=Profile%20views&color=0e75b6&style=flat" alt="bansikah" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find Me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/bansikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bansikah" height="30" width="40" /></a>
 <a href="https://twitter.com/@tbansikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tbansikah" height="30" width="40" /></a>
