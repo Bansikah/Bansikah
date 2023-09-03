@@ -31,4 +31,9 @@
 
 #My block posts
 <!-- BLOG-POST-LIST:START -->
+- [Build your own IDE using Python](https://bansikah.hashnode.dev/build-your-own-ide-using-python)
+- [Use Phone Camera with Python](https://bansikah.hashnode.dev/use-phone-camera-with-python)
+- [BMI Calculator with Python](https://bansikah.hashnode.dev/bmi-calculator-with-python)
+- [Email Slicer with Python](https://bansikah.hashnode.dev/email-slicer-with-python)
+- [JavaScript Array Method](https://bansikah.hashnode.dev/javascript-array-method)
 <!-- BLOG-POST-LIST:END -->
