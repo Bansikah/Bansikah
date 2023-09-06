@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansikah&" alt="bansikah" /></p>
 
-##My 📚block posts
+## My 📚block posts
 <!-- BLOG-POST-LIST:START -->
 - [Build your own IDE using Python](https://bansikah.hashnode.dev/build-your-own-ide-using-python)
 - [Use Phone Camera with Python](https://bansikah.hashnode.dev/use-phone-camera-with-python)
