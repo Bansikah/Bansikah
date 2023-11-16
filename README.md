@@ -33,9 +33,9 @@
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating an ssh key](https://bansikah.hashnode.dev/creating-an-ssh-key)
 - [Bash Basics](https://bansikah.hashnode.dev/bash-basics)
 - [Basic linux Commands](https://bansikah.hashnode.dev/basic-linux-commands)
 - [Binary Search in Python](https://bansikah.hashnode.dev/binary-search-in-python)
 - [Understanding If and Else Conditions in Python](https://bansikah.hashnode.dev/understanding-if-and-else-conditions-in-python)
-- [Build your own IDE using Python](https://bansikah.hashnode.dev/build-your-own-ide-using-python)
 <!-- BLOG-POST-LIST:END -->
