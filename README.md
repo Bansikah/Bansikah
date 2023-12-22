@@ -33,9 +33,9 @@
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Vim Editor](https://bansikah.hashnode.dev/using-vim-editor)
 - [The Importance of Testing in Software Development](https://bansikah.hashnode.dev/the-importance-of-testing-in-software-development)
 - [Creating an ssh key](https://bansikah.hashnode.dev/creating-an-ssh-key)
 - [Bash Basics](https://bansikah.hashnode.dev/bash-basics)
 - [Basic linux Commands](https://bansikah.hashnode.dev/basic-linux-commands)
-- [Binary Search in Python](https://bansikah.hashnode.dev/binary-search-in-python)
 <!-- BLOG-POST-LIST:END -->
