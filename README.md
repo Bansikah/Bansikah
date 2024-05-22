@@ -33,9 +33,9 @@
 
 ## My 📚blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes for Beginners](https://bansikah.hashnode.dev/kubernetes-for-beginners)
+- [Boost Your DevOps Workflow with Traefik](https://bansikah.hashnode.dev/boost-your-devops-workflow-with-traefik)
 - [Music Player GUI with Python](https://bansikah.hashnode.dev/music-player-gui-with-python)
 - [A Beginner&#39;s Guide to Using PostgreSQL on Ubuntu Terminal](https://bansikah.hashnode.dev/a-beginners-guide-to-using-postgresql-on-ubuntu-terminal)
 - [Object-Oriented Programming &lpar;OOP&rpar; Concepts with Real-World Scenarios](https://bansikah.hashnode.dev/object-oriented-programming-oop-concepts-with-real-world-scenarios)
-- [Creating a Docker Image for a Simple python-flask &quot;hello world!&quot; application.](https://bansikah.hashnode.dev/creating-a-docker-image-for-a-simple-python-flask-hello-world-application)
-- [Using Vim Editor](https://bansikah.hashnode.dev/using-vim-editor)
 <!-- BLOG-POST-LIST:END -->
